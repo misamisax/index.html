@@ -1,7 +1,0 @@
-{
-  "name": "MochiFast: Pixel Intermittent Fasting",
-  "description": "A cute, pixel-art companion for intermittent fasting. Track weight, collect gifts with your Mochi bunny, and stay motivated with friends.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
